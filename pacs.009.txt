@@ -1,5 +1,4 @@
-version = pacs.009.001.01
-version = pacs.009.001.02
+version = pacs.009.001.03
 
 /Document
 /Document/FinInstnCdtTrf
@@ -32,7 +31,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/ClrSys/Prtry
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstgRmbrsmntAgt
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstgRmbrsmntAgt/FinInstnId
-/Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstgRmbrsmntAgt/FinInstnId/BIC
+/Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstgRmbrsmntAgt/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstgRmbrsmntAgt/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstgRmbrsmntAgt/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstgRmbrsmntAgt/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -86,7 +85,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstgRmbrsmntAgtAcct/Nm
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstdRmbrsmntAgt
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstdRmbrsmntAgt/FinInstnId
-/Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstdRmbrsmntAgt/FinInstnId/BIC
+/Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstdRmbrsmntAgt/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstdRmbrsmntAgt/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstdRmbrsmntAgt/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstdRmbrsmntAgt/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -140,7 +139,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/InstdRmbrsmntAgtAcct/Nm
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/ThrdRmbrsmntAgt
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/ThrdRmbrsmntAgt/FinInstnId
-/Document/FinInstnCdtTrf/GrpHdr/SttlmInf/ThrdRmbrsmntAgt/FinInstnId/BIC
+/Document/FinInstnCdtTrf/GrpHdr/SttlmInf/ThrdRmbrsmntAgt/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/ThrdRmbrsmntAgt/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/ThrdRmbrsmntAgt/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/GrpHdr/SttlmInf/ThrdRmbrsmntAgt/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -201,9 +200,12 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/GrpHdr/PmtTpInf/LclInstrm
 /Document/FinInstnCdtTrf/GrpHdr/PmtTpInf/LclInstrm/Cd
 /Document/FinInstnCdtTrf/GrpHdr/PmtTpInf/LclInstrm/Prtry
+/Document/FinInstnCdtTrf/GrpHdr/PmtTpInf/CtgyPurp
+/Document/FinInstnCdtTrf/GrpHdr/PmtTpInf/CtgyPurp/Cd
+/Document/FinInstnCdtTrf/GrpHdr/PmtTpInf/CtgyPurp/Prtry
 /Document/FinInstnCdtTrf/GrpHdr/InstgAgt
 /Document/FinInstnCdtTrf/GrpHdr/InstgAgt/FinInstnId
-/Document/FinInstnCdtTrf/GrpHdr/InstgAgt/FinInstnId/BIC
+/Document/FinInstnCdtTrf/GrpHdr/InstgAgt/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/GrpHdr/InstgAgt/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/GrpHdr/InstgAgt/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/GrpHdr/InstgAgt/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -243,7 +245,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/GrpHdr/InstgAgt/BrnchId/PstlAdr/AdrLine
 /Document/FinInstnCdtTrf/GrpHdr/InstdAgt
 /Document/FinInstnCdtTrf/GrpHdr/InstdAgt/FinInstnId
-/Document/FinInstnCdtTrf/GrpHdr/InstdAgt/FinInstnId/BIC
+/Document/FinInstnCdtTrf/GrpHdr/InstdAgt/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/GrpHdr/InstdAgt/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/GrpHdr/InstdAgt/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/GrpHdr/InstdAgt/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -296,6 +298,9 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/PmtTpInf/LclInstrm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/PmtTpInf/LclInstrm/Cd
 /Document/FinInstnCdtTrf/CdtTrfTxInf/PmtTpInf/LclInstrm/Prtry
+/Document/FinInstnCdtTrf/CdtTrfTxInf/PmtTpInf/CtgyPurp
+/Document/FinInstnCdtTrf/CdtTrfTxInf/PmtTpInf/CtgyPurp/Cd
+/Document/FinInstnCdtTrf/CdtTrfTxInf/PmtTpInf/CtgyPurp/Prtry
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrBkSttlmAmt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrBkSttlmDt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/SttlmPrty
@@ -309,7 +314,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/SttlmTmReq/RjctTm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/PrvsInstgAgt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/PrvsInstgAgt/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/PrvsInstgAgt/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/PrvsInstgAgt/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/PrvsInstgAgt/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/PrvsInstgAgt/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/PrvsInstgAgt/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -363,7 +368,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/PrvsInstgAgtAcct/Nm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/InstgAgt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/InstgAgt/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/InstgAgt/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/InstgAgt/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/InstgAgt/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/InstgAgt/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/InstgAgt/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -403,7 +408,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/InstgAgt/BrnchId/PstlAdr/AdrLine
 /Document/FinInstnCdtTrf/CdtTrfTxInf/InstdAgt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/InstdAgt/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/InstdAgt/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/InstdAgt/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/InstdAgt/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/InstdAgt/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/InstdAgt/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -443,7 +448,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/InstdAgt/BrnchId/PstlAdr/AdrLine
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt1
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt1/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt1/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt1/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt1/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt1/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt1/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -497,7 +502,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt1Acct/Nm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt2
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt2/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt2/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt2/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt2/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt2/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt2/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -551,7 +556,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt2Acct/Nm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt3
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt3/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt3/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt3/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt3/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt3/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt3/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -605,7 +610,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/IntrmyAgt3Acct/Nm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UltmtDbtr
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UltmtDbtr/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/UltmtDbtr/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UltmtDbtr/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UltmtDbtr/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UltmtDbtr/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UltmtDbtr/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -645,7 +650,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UltmtDbtr/BrnchId/PstlAdr/AdrLine
 /Document/FinInstnCdtTrf/CdtTrfTxInf/Dbtr
 /Document/FinInstnCdtTrf/CdtTrfTxInf/Dbtr/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/Dbtr/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/Dbtr/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/Dbtr/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/Dbtr/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/Dbtr/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -699,7 +704,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/DbtrAcct/Nm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/DbtrAgt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/DbtrAgt/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/DbtrAgt/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/DbtrAgt/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/DbtrAgt/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/DbtrAgt/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/DbtrAgt/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -753,7 +758,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/DbtrAgtAcct/Nm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/CdtrAgt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/CdtrAgt/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/CdtrAgt/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/CdtrAgt/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/CdtrAgt/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/CdtrAgt/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/CdtrAgt/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -807,7 +812,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/CdtrAgtAcct/Nm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/Cdtr
 /Document/FinInstnCdtTrf/CdtTrfTxInf/Cdtr/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/Cdtr/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/Cdtr/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/Cdtr/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/Cdtr/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/Cdtr/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -861,7 +866,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/CdtrAcct/Nm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UltmtCdtr
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UltmtCdtr/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/UltmtCdtr/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UltmtCdtr/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UltmtCdtr/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UltmtCdtr/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UltmtCdtr/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -923,7 +928,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtDbtr/PstlAdr/AdrLine
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtDbtr/Id
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtDbtr/Id/OrgId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtDbtr/Id/OrgId/BICOrBEI
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtDbtr/Id/OrgId/AnyBIC
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtDbtr/Id/OrgId/Othr
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtDbtr/Id/OrgId/Othr/Id
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtDbtr/Id/OrgId/Othr/SchmeNm
@@ -966,7 +971,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/InitgPty/PstlAdr/AdrLine
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/InitgPty/Id
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/InitgPty/Id/OrgId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/InitgPty/Id/OrgId/BICOrBEI
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/InitgPty/Id/OrgId/AnyBIC
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/InitgPty/Id/OrgId/Othr
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/InitgPty/Id/OrgId/Othr/Id
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/InitgPty/Id/OrgId/Othr/SchmeNm
@@ -1009,7 +1014,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Dbtr/PstlAdr/AdrLine
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Dbtr/Id
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Dbtr/Id/OrgId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Dbtr/Id/OrgId/BICOrBEI
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Dbtr/Id/OrgId/AnyBIC
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Dbtr/Id/OrgId/Othr
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Dbtr/Id/OrgId/Othr/Id
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Dbtr/Id/OrgId/Othr/SchmeNm
@@ -1053,7 +1058,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/DbtrAcct/Nm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/DbtrAgt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/DbtrAgt/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/DbtrAgt/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/DbtrAgt/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/DbtrAgt/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/DbtrAgt/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/DbtrAgt/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -1107,7 +1112,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/DbtrAgtAcct/Nm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/PrvsInstgAgt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/PrvsInstgAgt/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/PrvsInstgAgt/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/PrvsInstgAgt/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/PrvsInstgAgt/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/PrvsInstgAgt/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/PrvsInstgAgt/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -1161,7 +1166,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/PrvsInstgAgtAcct/Nm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt1
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt1/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt1/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt1/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt1/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt1/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt1/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -1215,7 +1220,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt1Acct/Nm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt2
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt2/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt2/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt2/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt2/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt2/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt2/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -1269,7 +1274,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt2Acct/Nm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt3
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt3/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt3/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt3/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt3/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt3/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt3/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -1323,7 +1328,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/IntrmyAgt3Acct/Nm
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/CdtrAgt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/CdtrAgt/FinInstnId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/CdtrAgt/FinInstnId/BIC
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/CdtrAgt/FinInstnId/BICFI
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/CdtrAgt/FinInstnId/ClrSysMmbId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/CdtrAgt/FinInstnId/ClrSysMmbId/ClrSysId
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/CdtrAgt/FinInstnId/ClrSysMmbId/ClrSysId/Cd
@@ -1390,7 +1395,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Cdtr/PstlAdr/AdrLine
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Cdtr/Id
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Cdtr/Id/OrgId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Cdtr/Id/OrgId/BICOrBEI
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Cdtr/Id/OrgId/AnyBIC
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Cdtr/Id/OrgId/Othr
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Cdtr/Id/OrgId/Othr/Id
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/Cdtr/Id/OrgId/Othr/SchmeNm
@@ -1447,7 +1452,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtCdtr/PstlAdr/AdrLine
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtCdtr/Id
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtCdtr/Id/OrgId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtCdtr/Id/OrgId/BICOrBEI
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtCdtr/Id/OrgId/AnyBIC
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtCdtr/Id/OrgId/Othr
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtCdtr/Id/OrgId/Othr/Id
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/UltmtCdtr/Id/OrgId/Othr/SchmeNm
@@ -1489,8 +1494,16 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/DuePyblAmt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/DscntApldAmt
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/DscntApldAmt/Tp
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/DscntApldAmt/Tp/Cd
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/DscntApldAmt/Tp/Prtry
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/DscntApldAmt/Amt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/CdtNoteAmt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/TaxAmt
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/TaxAmt/Tp
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/TaxAmt/Tp/Cd
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/TaxAmt/Tp/Prtry
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/TaxAmt/Amt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/AdjstmntAmtAndRsn
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/AdjstmntAmtAndRsn/Amt
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/AdjstmntAmtAndRsn/CdtDbtInd
@@ -1519,7 +1532,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcr/PstlAdr/AdrLine
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcr/Id
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcr/Id/OrgId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcr/Id/OrgId/BICOrBEI
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcr/Id/OrgId/AnyBIC
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcr/Id/OrgId/Othr
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcr/Id/OrgId/Othr/Id
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcr/Id/OrgId/Othr/SchmeNm
@@ -1562,7 +1575,7 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcee/PstlAdr/AdrLine
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcee/Id
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcee/Id/OrgId
-/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcee/Id/OrgId/BICOrBEI
+/Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcee/Id/OrgId/AnyBIC
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcee/Id/OrgId/Othr
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcee/Id/OrgId/Othr/Id
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcee/Id/OrgId/Othr/SchmeNm
@@ -1592,3 +1605,6 @@ version = pacs.009.001.02
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/Invcee/CtctDtls/Othr
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/AddtlRmtInf
 /Document/FinInstnCdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/InstdAmt
+/Document/FinInstnCdtTrf/SplmtryData
+/Document/FinInstnCdtTrf/SplmtryData/PlcAndNm
+/Document/FinInstnCdtTrf/SplmtryData/Envlp
