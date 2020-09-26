@@ -1,4 +1,4 @@
-version = pacs.002.001.04
+version = pacs.002.001.05
 
 /Document
 /Document/FIToFIPmtStsRpt
@@ -1223,6 +1223,9 @@ version = pacs.002.001.04
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/UltmtCdtr/CtctDtls/FaxNb
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/UltmtCdtr/CtctDtls/EmailAdr
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/UltmtCdtr/CtctDtls/Othr
+/Document/FIToFIPmtStsRpt/TxInfAndSts/SplmtryData
+/Document/FIToFIPmtStsRpt/TxInfAndSts/SplmtryData/PlcAndNm
+/Document/FIToFIPmtStsRpt/TxInfAndSts/SplmtryData/Envlp
 /Document/FIToFIPmtStsRpt/SplmtryData
 /Document/FIToFIPmtStsRpt/SplmtryData/PlcAndNm
 /Document/FIToFIPmtStsRpt/SplmtryData/Envlp

@@ -1,4 +1,4 @@
-version = pacs.003.001.03
+version = pacs.003.001.04
 
 /Document
 /Document/FIToFICstmrDrctDbt
@@ -1207,6 +1207,9 @@ version = pacs.003.001.03
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/RmtInf/Strd/Invcee/CtctDtls/EmailAdr
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/RmtInf/Strd/Invcee/CtctDtls/Othr
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/RmtInf/Strd/AddtlRmtInf
+/Document/FIToFICstmrDrctDbt/DrctDbtTxInf/SplmtryData
+/Document/FIToFICstmrDrctDbt/DrctDbtTxInf/SplmtryData/PlcAndNm
+/Document/FIToFICstmrDrctDbt/DrctDbtTxInf/SplmtryData/Envlp
 /Document/FIToFICstmrDrctDbt/SplmtryData
 /Document/FIToFICstmrDrctDbt/SplmtryData/PlcAndNm
 /Document/FIToFICstmrDrctDbt/SplmtryData/Envlp

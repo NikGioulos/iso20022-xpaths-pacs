@@ -1,4 +1,4 @@
-version = pacs.004.001.03
+version = pacs.004.001.04
 
 /Document
 /Document/PmtRtr
@@ -1414,6 +1414,9 @@ version = pacs.004.001.03
 /Document/PmtRtr/TxInf/OrgnlTxRef/UltmtCdtr/CtctDtls/FaxNb
 /Document/PmtRtr/TxInf/OrgnlTxRef/UltmtCdtr/CtctDtls/EmailAdr
 /Document/PmtRtr/TxInf/OrgnlTxRef/UltmtCdtr/CtctDtls/Othr
+/Document/PmtRtr/TxInf/SplmtryData
+/Document/PmtRtr/TxInf/SplmtryData/PlcAndNm
+/Document/PmtRtr/TxInf/SplmtryData/Envlp
 /Document/PmtRtr/SplmtryData
 /Document/PmtRtr/SplmtryData/PlcAndNm
 /Document/PmtRtr/SplmtryData/Envlp
