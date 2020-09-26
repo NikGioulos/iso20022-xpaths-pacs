@@ -1,4 +1,4 @@
-version = pacs.008.001.05
+version = pacs.008.001.06
 
 /Document
 /Document/FIToFICstmrCdtTrf
@@ -1101,6 +1101,35 @@ version = pacs.008.001.05
 /Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/Tp/Issr
 /Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/Nb
 /Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/RltdDt
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Id
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Tp
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Tp/CdOrPrtry
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Tp/CdOrPrtry/Cd
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Tp/CdOrPrtry/Prtry
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Tp/Issr
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Nb
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Id/RltdDt
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Desc
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DuePyblAmt
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DscntApldAmt
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DscntApldAmt/Tp
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DscntApldAmt/Tp/Cd
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DscntApldAmt/Tp/Prtry
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DscntApldAmt/Amt
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/CdtNoteAmt
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/TaxAmt
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/TaxAmt/Tp
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/TaxAmt/Tp/Cd
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/TaxAmt/Tp/Prtry
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/TaxAmt/Amt
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/AdjstmntAmtAndRsn
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/AdjstmntAmtAndRsn/Amt
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/AdjstmntAmtAndRsn/CdtDbtInd
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/AdjstmntAmtAndRsn/Rsn
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/AdjstmntAmtAndRsn/AddtlInf
+/Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/RmtdAmt
 /Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocAmt
 /Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocAmt/DuePyblAmt
 /Document/FIToFICstmrCdtTrf/CdtTrfTxInf/RmtInf/Strd/RfrdDocAmt/DscntApldAmt

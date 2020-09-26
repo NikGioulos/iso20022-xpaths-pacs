@@ -1,4 +1,4 @@
-version = pacs.009.001.05
+version = pacs.009.001.06
 
 /Document
 /Document/FICdtTrf
@@ -1542,6 +1542,35 @@ version = pacs.009.001.05
 /Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/Tp/Issr
 /Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/Nb
 /Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/RltdDt
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Id
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Tp
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Tp/CdOrPrtry
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Tp/CdOrPrtry/Cd
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Tp/CdOrPrtry/Prtry
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Tp/Issr
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Nb
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Id/RltdDt
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Desc
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DuePyblAmt
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DscntApldAmt
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DscntApldAmt/Tp
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DscntApldAmt/Tp/Cd
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DscntApldAmt/Tp/Prtry
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DscntApldAmt/Amt
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/CdtNoteAmt
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/TaxAmt
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/TaxAmt/Tp
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/TaxAmt/Tp/Cd
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/TaxAmt/Tp/Prtry
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/TaxAmt/Amt
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/AdjstmntAmtAndRsn
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/AdjstmntAmtAndRsn/Amt
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/AdjstmntAmtAndRsn/CdtDbtInd
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/AdjstmntAmtAndRsn/Rsn
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/AdjstmntAmtAndRsn/AddtlInf
+/Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/RmtdAmt
 /Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt
 /Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/DuePyblAmt
 /Document/FICdtTrf/CdtTrfTxInf/UndrlygCstmrCdtTrf/RmtInf/Strd/RfrdDocAmt/DscntApldAmt

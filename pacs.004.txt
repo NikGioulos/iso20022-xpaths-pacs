@@ -1,4 +1,4 @@
-version = pacs.004.001.05
+version = pacs.004.001.06
 
 /Document
 /Document/PmtRtr
@@ -1008,6 +1008,35 @@ version = pacs.004.001.05
 /Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/Tp/Issr
 /Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/Nb
 /Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/RltdDt
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Id
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Tp
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Tp/CdOrPrtry
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Tp/CdOrPrtry/Cd
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Tp/CdOrPrtry/Prtry
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Tp/Issr
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Id/Nb
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Id/RltdDt
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Desc
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DuePyblAmt
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DscntApldAmt
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DscntApldAmt/Tp
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DscntApldAmt/Tp/Cd
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DscntApldAmt/Tp/Prtry
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/DscntApldAmt/Amt
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/CdtNoteAmt
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/TaxAmt
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/TaxAmt/Tp
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/TaxAmt/Tp/Cd
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/TaxAmt/Tp/Prtry
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/TaxAmt/Amt
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/AdjstmntAmtAndRsn
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/AdjstmntAmtAndRsn/Amt
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/AdjstmntAmtAndRsn/CdtDbtInd
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/AdjstmntAmtAndRsn/Rsn
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/AdjstmntAmtAndRsn/AddtlInf
+/Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocInf/LineDtls/Amt/RmtdAmt
 /Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocAmt
 /Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocAmt/DuePyblAmt
 /Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd/RfrdDocAmt/DscntApldAmt
