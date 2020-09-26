@@ -1,4 +1,4 @@
-version = pacs.003.001.06
+version = pacs.003.001.07
 
 /Document
 /Document/FIToFICstmrDrctDbt
@@ -414,9 +414,13 @@ version = pacs.003.001.06
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/Prd
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/Prd/Tp
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/Prd/CntPerPrd
+/Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/PtInTm
+/Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/PtInTm/Tp
+/Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/PtInTm/PtInTm
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/AmdmntInfDtls/OrgnlRsn
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/AmdmntInfDtls/OrgnlRsn/Cd
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/AmdmntInfDtls/OrgnlRsn/Prtry
+/Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/AmdmntInfDtls/OrgnlTrckgDays
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/ElctrncSgntr
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/FrstColltnDt
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/FnlColltnDt
@@ -425,9 +429,13 @@ version = pacs.003.001.06
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/Frqcy/Prd
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/Frqcy/Prd/Tp
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/Frqcy/Prd/CntPerPrd
+/Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/Frqcy/PtInTm
+/Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/Frqcy/PtInTm/Tp
+/Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/Frqcy/PtInTm/PtInTm
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/Rsn
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/Rsn/Cd
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/Rsn/Prtry
+/Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/TrckgDays
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/CdtrSchmeId
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/CdtrSchmeId/Nm
 /Document/FIToFICstmrDrctDbt/DrctDbtTxInf/DrctDbtTx/CdtrSchmeId/PstlAdr

@@ -1,4 +1,4 @@
-version = pacs.004.001.06
+version = pacs.004.001.07
 
 /Document
 /Document/PmtRtr
@@ -525,6 +525,8 @@ version = pacs.004.001.06
 /Document/PmtRtr/TxInf/OrgnlTxRef/IntrBkSttlmDt
 /Document/PmtRtr/TxInf/OrgnlTxRef/ReqdColltnDt
 /Document/PmtRtr/TxInf/OrgnlTxRef/ReqdExctnDt
+/Document/PmtRtr/TxInf/OrgnlTxRef/ReqdExctnDt/Dt
+/Document/PmtRtr/TxInf/OrgnlTxRef/ReqdExctnDt/DtTm
 /Document/PmtRtr/TxInf/OrgnlTxRef/CdtrSchmeId
 /Document/PmtRtr/TxInf/OrgnlTxRef/CdtrSchmeId/Nm
 /Document/PmtRtr/TxInf/OrgnlTxRef/CdtrSchmeId/PstlAdr
@@ -983,9 +985,13 @@ version = pacs.004.001.06
 /Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/Prd
 /Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/Prd/Tp
 /Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/Prd/CntPerPrd
+/Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/PtInTm
+/Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/PtInTm/Tp
+/Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/PtInTm/PtInTm
 /Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlRsn
 /Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlRsn/Cd
 /Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlRsn/Prtry
+/Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlTrckgDays
 /Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/ElctrncSgntr
 /Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/FrstColltnDt
 /Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/FnlColltnDt
@@ -994,9 +1000,13 @@ version = pacs.004.001.06
 /Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/Frqcy/Prd
 /Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/Frqcy/Prd/Tp
 /Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/Frqcy/Prd/CntPerPrd
+/Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/Frqcy/PtInTm
+/Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/Frqcy/PtInTm/Tp
+/Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/Frqcy/PtInTm/PtInTm
 /Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/Rsn
 /Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/Rsn/Cd
 /Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/Rsn/Prtry
+/Document/PmtRtr/TxInf/OrgnlTxRef/MndtRltdInf/TrckgDays
 /Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf
 /Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Ustrd
 /Document/PmtRtr/TxInf/OrgnlTxRef/RmtInf/Strd

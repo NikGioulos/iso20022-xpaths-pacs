@@ -1,4 +1,4 @@
-version = pacs.002.001.07
+version = pacs.002.001.08
 
 /Document
 /Document/FIToFIPmtStsRpt
@@ -337,6 +337,8 @@ version = pacs.002.001.07
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/IntrBkSttlmDt
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/ReqdColltnDt
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/ReqdExctnDt
+/Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/ReqdExctnDt/Dt
+/Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/ReqdExctnDt/DtTm
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/CdtrSchmeId
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/CdtrSchmeId/Nm
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/CdtrSchmeId/PstlAdr
@@ -795,9 +797,13 @@ version = pacs.002.001.07
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/Prd
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/Prd/Tp
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/Prd/CntPerPrd
+/Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/PtInTm
+/Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/PtInTm/Tp
+/Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlFrqcy/PtInTm/PtInTm
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlRsn
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlRsn/Cd
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlRsn/Prtry
+/Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/AmdmntInfDtls/OrgnlTrckgDays
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/ElctrncSgntr
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/FrstColltnDt
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/FnlColltnDt
@@ -806,9 +812,13 @@ version = pacs.002.001.07
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/Frqcy/Prd
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/Frqcy/Prd/Tp
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/Frqcy/Prd/CntPerPrd
+/Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/Frqcy/PtInTm
+/Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/Frqcy/PtInTm/Tp
+/Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/Frqcy/PtInTm/PtInTm
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/Rsn
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/Rsn/Cd
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/Rsn/Prtry
+/Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/MndtRltdInf/TrckgDays
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/RmtInf
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/RmtInf/Ustrd
 /Document/FIToFIPmtStsRpt/TxInfAndSts/OrgnlTxRef/RmtInf/Strd
